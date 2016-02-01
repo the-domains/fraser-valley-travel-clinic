@@ -1,7 +1,7 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: true
 keywords:
@@ -15,13 +15,13 @@ keywords:
   - dragons
   - stark
   - martin
-description: Jon Snow - King of Kings
-datePublished: '2016-02-01T02:49:51.668Z'
-dateModified: '2016-02-01T02:49:48.637Z'
+description: Jon Snow
+datePublished: '2016-02-01T02:55:19.875Z'
+dateModified: '2016-02-01T02:55:16.436Z'
 author: []
 related: []
 app_links: []
-title: ''
+title: King of Kings
 sourcePath: _posts/2016-02-01-jon-snow-character-wikipedia-the-free-encyclopedia.md
 published: true
 authors: []
