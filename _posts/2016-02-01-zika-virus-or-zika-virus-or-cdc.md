@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.cdc.gov/zika/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - directly
   - precautions
 description: Information on Chikungunya virus. Provided by the U.S. Centers for Disease Control and Prevention.
-datePublished: '2016-02-01T03:21:48.330Z'
-dateModified: '2016-02-01T03:21:37.369Z'
+datePublished: '2016-02-01T03:41:34.494Z'
+dateModified: '2016-02-01T03:41:25.035Z'
 author: []
 related: []
 app_links: []
@@ -30,11 +31,10 @@ publisher:
   domain: www.cdc.gov
   url: 'http://www.cdc.gov'
   favicon: 'http://www.cdc.gov/TemplatePackage/3.0/images/favicon.ico'
-url: zika-virus-or-cdc/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Zika Virus &amp;vert; Zika virus &amp;vert; CDC</h1><p>Information on Chikungunya virus&amp;period; Provided by the U&amp;period;S&amp;period; Centers for Disease Control and Prevention&amp;period;</p><img src="http://www.cdc.gov/zika/images/zik-world-map_active_01-26-2016_web_2.jpg" /></article>
+<article style=""><h1>Zika virus | CDC</h1><p>Information on Chikungunya virus. Provided by the U.S. Centers for Disease Control and Prevention.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92c5531e4e8ec053d4f089b9ee8b507ec1b95c88.jpg" /></article>
 
 Emerging Exotic Virus: Western Hemisphere
