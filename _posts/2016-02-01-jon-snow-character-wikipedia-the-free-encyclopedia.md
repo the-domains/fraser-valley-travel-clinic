@@ -1,10 +1,9 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://en.wikipedia.org/wiki/Jon_Snow_(character)'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - jon
   - retrieved
@@ -16,21 +15,22 @@ keywords:
   - dragons
   - stark
   - martin
-description: "Jon Snow is a fictional character in the A Song of Ice and Fire series of fantasy novels by American author George R. R. Martin, and its television adaptation Game of Thrones . He is a prominent point of view character in the novels, and has been called one of the author's \"finest creations\" and most popular characters by The New York Times ."
-datePublished: '2016-02-01T02:44:19.930Z'
-dateModified: '2016-02-01T02:44:08.493Z'
+description: Jon Snow - King of Kings
+datePublished: '2016-02-01T02:49:51.668Z'
+dateModified: '2016-02-01T02:49:48.637Z'
 author: []
 related: []
 app_links: []
-title: 'Jon Snow (character) - Wikipedia, the free encyclopedia'
+title: ''
+sourcePath: _posts/2016-02-01-jon-snow-character-wikipedia-the-free-encyclopedia.md
+published: true
 authors: []
 publisher:
   name: Wikipedia
   domain: en.wikipedia.org
   url: 'https://en.wikipedia.org'
   favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
-sourcePath: _posts/2016-02-01-jon-snow-character-wikipedia-the-free-encyclopedia.md
-published: true
+url: jon-snow-character-wikipedia-the-free-encyclopedia/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
