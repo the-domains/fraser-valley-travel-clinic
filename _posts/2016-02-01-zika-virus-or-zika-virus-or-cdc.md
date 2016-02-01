@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cdc.gov/zika/'
 title: 'Zika Virus | Zika virus | CDC'
-datePublished: '2016-02-01T01:46:15.517Z'
-dateModified: '2016-01-31T05:18:02.223Z'
+datePublished: '2016-02-01T01:50:27.088Z'
+dateModified: '2016-02-01T01:45:15.025Z'
 sourcePath: _posts/2016-02-01-zika-virus-or-zika-virus-or-cdc.md
 published: true
 inFeed: true
