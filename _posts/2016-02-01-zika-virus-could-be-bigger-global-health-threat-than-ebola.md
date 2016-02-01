@@ -1,4 +1,23 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
+keywords:
+  - guardian
+  - zika
+  - microcephaly
+  - virus
+  - tweet
+  - location
+  - health
+  - ebola
+  - copying
+  - http
+description: 'Zika virus could be bigger global health threat than Ebola, say health experts http://trib.al/crIKHLx'
+datePublished: '2016-02-01T06:26:24.504Z'
+dateModified: '2016-02-01T06:26:18.386Z'
 author:
   - name: guardian
     url: 'http://twitter.com/guardian'
@@ -14,34 +33,17 @@ author:
           - 246
           - 249
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - guardian
-  - zika
-  - microcephaly
-  - virus
-  - tweet
-  - location
-  - health
-  - ebola
-  - copying
-  - http
-description: 'Zika virus could be bigger global health threat than Ebola, say health experts http://trib.al/crIKHLx'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/guardian/status/693532823232368640'
-datePublished: '2016-02-01T03:30:51.066Z'
-dateModified: '2016-02-01T03:30:03.932Z'
 title: ''
 sourcePath: _posts/2016-02-01-zika-virus-could-be-bigger-global-health-threat-than-ebola.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+url: zika-virus-could-be-bigger-global-health-threat-than-ebola/index.html
 _type: Comment
 _context: 'http://schema.org'
 
