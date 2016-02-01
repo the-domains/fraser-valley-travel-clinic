@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - zika
   - virus
@@ -16,8 +16,8 @@ keywords:
   - directly
   - precautions
 description: Information on Chikungunya virus. Provided by the U.S. Centers for Disease Control and Prevention.
-datePublished: '2016-02-01T03:01:36.076Z'
-dateModified: '2016-02-01T03:01:26.416Z'
+datePublished: '2016-02-01T03:06:54.079Z'
+dateModified: '2016-02-01T03:06:27.848Z'
 author: []
 related: []
 app_links: []
