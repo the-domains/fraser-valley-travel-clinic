@@ -16,8 +16,8 @@ keywords:
   - directly
   - precautions
 description: Information on Chikungunya virus. Provided by the U.S. Centers for Disease Control and Prevention.
-datePublished: '2016-02-01T02:57:25.192Z'
-dateModified: '2016-02-01T02:57:19.024Z'
+datePublished: '2016-02-01T02:59:30.362Z'
+dateModified: '2016-02-01T02:59:18.814Z'
 author: []
 related: []
 app_links: []
