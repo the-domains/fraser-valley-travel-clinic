@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.bccdc.ca/'
+inLanguage: en
+starred: false
+keywords:
+  - javascript
+  - browser
+  - enabled
+  - please
+  - turn
+  - try
+  - looks
+  - content
+  - like
+  - summary
+description: ''
+datePublished: '2016-02-01T02:19:37.466Z'
+dateModified: '2016-02-01T02:19:22.990Z'
 author: []
 related:
   - score: 0.5946798921
@@ -29,36 +49,18 @@ related:
     thumbnail_height: 180
     thumbnail_url: 'http://tedcdnpe-a.akamaihd.net/images/ted/99da7b24202e70ffebb79d5c849556847c805d18_240x180.jpg?lang=en'
     thumbnail_width: 240
-publisher:
-  url: 'http://www.bccdc.ca'
-  name: Bccdc
-  favicon: 'http://www.bccdc.ca/_layouts/15/CUSTOM/EWI/assets/img/cdc/favicon.ico'
-  domain: www.bccdc.ca
-keywords:
-  - javascript
-  - browser
-  - enabled
-  - please
-  - turn
-  - try
-  - looks
-  - content
-  - like
-  - summary
-description: 'Skip to main content ‭(Hidden)‬ Content Editor ‭[2]‬ It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again. It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.bccdc.ca/'
 title: BC Centre for Disease Control
-datePublished: '2016-02-01T02:07:16.638Z'
-dateModified: '2016-02-01T02:02:16.418Z'
 sourcePath: _posts/2016-02-01-bc-centre-for-disease-control.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Bccdc
+  domain: www.bccdc.ca
+  url: 'http://www.bccdc.ca'
+  favicon: 'http://www.bccdc.ca/_layouts/15/CUSTOM/EWI/assets/img/cdc/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>BC Centre for Disease Control</h1><p>Skip to main content ‭&amp;lpar;Hidden&amp;rpar;‬ Content Editor ‭&amp;lsqb;2&amp;rsqb;‬ It looks like your browser does not have JavaScript enabled&amp;period; Please turn on JavaScript and try again&amp;period; It looks like your browser does not have JavaScript enabled&amp;period; Please turn on JavaScript and try again&amp;period;</p><img src="http://www.bccdc.ca/PublishingImages/BCCDC_P_Building_Exterior_Sign3_W-Web.jpg?RenditionID=2" /></article>
+<article style=""><h1>BC Centre for Disease Control</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c82d376ec7de4dc8e0b5e142a56c128461872c74.jpg" /></article>
