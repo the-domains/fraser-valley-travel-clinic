@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Coach House Designs specializes in quilting patterns using Moda fabric. Check out our great selection of all things quilting!'
-datePublished: '2016-02-01T02:33:15.065Z'
+datePublished: '2016-02-01T02:33:15.098Z'
 dateModified: '2016-02-01T02:33:06.850Z'
 author: []
 related: []
