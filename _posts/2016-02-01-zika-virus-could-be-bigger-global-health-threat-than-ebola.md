@@ -17,8 +17,8 @@ keywords:
   - copying
   - http
 description: 'Zika virus could be bigger global health threat than Ebola, say health experts http://trib.al/crIKHLx'
-datePublished: '2016-02-03T07:38:54.204Z'
-dateModified: '2016-02-03T07:38:52.220Z'
+datePublished: '2016-02-03T07:40:52.266Z'
+dateModified: '2016-02-03T07:40:49.988Z'
 author:
   - name: guardian
     url: 'http://twitter.com/guardian'
