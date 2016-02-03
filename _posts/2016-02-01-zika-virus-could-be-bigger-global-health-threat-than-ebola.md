@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/guardian/status/693532823232368640'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - guardian
   - zika
@@ -17,8 +17,8 @@ keywords:
   - copying
   - http
 description: 'Zika virus could be bigger global health threat than Ebola, say health experts http://trib.al/crIKHLx'
-datePublished: '2016-02-03T07:58:00.117Z'
-dateModified: '2016-02-03T07:57:56.661Z'
+datePublished: '2016-02-03T07:58:09.984Z'
+dateModified: '2016-02-03T07:58:07.311Z'
 author:
   - name: guardian
     url: 'http://twitter.com/guardian'
